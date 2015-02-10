@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>feworker</title>
+    <link>feworker.github.io</link>
+    <description>RSS feed for feworker</description>
+    <pubDate>Tue, 10 Feb 2015 00:00:00 +0800</pubDate>
+    <item>
+      <title>背景色渐变效果</title>
+      <link>feworker.github.io/how/2015/02/10/css-test.html</link>
+      <description>&lt;h3 id=&quot;section&quot;&gt;问题描述&lt;/h3&gt;
+
+</description>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 +0800</pubDate>
+      <guid>feworker.github.io/how/2015/02/10/css-test.html</guid>
+      <dc:date>2015-02-10T00:00:00+08:00</dc:date>
+    </item>
+    <dc:date>2015-02-10T00:00:00+08:00</dc:date>
+  </channel>
+</rss>
